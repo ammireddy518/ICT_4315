@@ -1,4 +1,4 @@
-# ICT_4315
-## contributers
--ammireddy
--Nathan Braun
+# ICT_4315 object-oriented programming
+ ## contributers
+- ammireddy
+- Nathan Braun
